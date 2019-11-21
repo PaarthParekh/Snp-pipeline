@@ -207,10 +207,3 @@ main() {
 
 # Calling the main function
 main "$@"
-
-
-# DO NOT EDIT THE BELOW FUNCTION
-bats_test (){
-    command -v bats
-}
-# DO NOT EDIT THE ABOVE FUNCTION
