@@ -1,6 +1,3 @@
-#!/bin/bash
-# Place your gatech userame in the below export
-export NAME="pparekh32"
 get_input () {
 	# Function for doing your getopts
 	#
